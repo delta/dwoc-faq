@@ -22,8 +22,6 @@ https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-s
 -  Selected participants spend their winter contributing and being mentored.
 -  Upon completion, all participants are awarded.
 
-#### Have any queries? Raise them in <a href="https://discord.gg/Q278YJV">discord<a/>
-
 We hope this encourages you to code, explore and work with people in our community.
 
 ---
