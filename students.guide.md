@@ -6,11 +6,11 @@ It's quite simple really!
 Are you new to open source?
 If yes, you might want to take a peek at some of these informative articles.
 
-https://www.hackerearth.com/getstarted-opensource/
+[How to get started with Open Source](https://www.hackerearth.com/getstarted-opensource/)
 
-https://medium.com/clarifai-champions/99-pr-oblems-a-beginners-guide-to-open-source-abc1b867385a
+[[PR]oblems: A Beginner’s Guide to Open Source](https://medium.com/clarifai-champions/99-pr-oblems-a-beginners-guide-to-open-source-abc1b867385a)
 
-https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source
+[Introduction to GitHub and Open-Source Projects](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
 
 ### Now that you're all prepped up, let's dive into DWoC and how you can work on an open source project!
 - We recommend identifying a language or framework you're comfortable with.
