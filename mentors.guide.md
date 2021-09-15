@@ -9,7 +9,8 @@ Mentors are people from the community who volunteer to work with a student. They
 ### Adding Your Project
 - Login with your GitHub account and update your profile information and select `Mentor`
 - Once the organisation application opens, you can visit https://dwoc.io/organisations to create your org.
-- After creating the org, click on create project button to add your projects and select the project mentor from the users dropdown.
+- Based on the org details, we will verifiy or reject your org.
+- If you have been verified, you can click on create project button in your org page to add your projects and select the project mentor from the users dropdown.
 - Only the owner of the org (i.e, the creator) can add projects and/or edit the org.
 - Mentee applications for your org will begin once the accepted orgs are announced.
 

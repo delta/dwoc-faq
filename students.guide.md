@@ -28,5 +28,4 @@ We hope this encourages you to code, explore and work with people in our communi
 ### Further Details :
 
 - There is no set number on how many people will be selected, that is based on the organizations and their mentors.
-
-- Prizes include: certificate of completion, DWoC t-shirt, stickers, Delta goodies.
+- Prizes include: certificate of completion, DWoC t-shirt, stickers.
