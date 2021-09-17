@@ -3,10 +3,10 @@
 Delta Winter of Code receives 400+ registrations every edition.
 This is our first time opening mentorship to external organizations.
 
-- After your project gets selected, it will be showcased on our site. It will help your project
-   - get required features added,
-   - issues discovered, and
-   - give you experience in managing a project in a larger scale.
+- After your project gets selected, it will be showcased on our site. This will help to,
+   - Add required features to your project(s),
+   - Raise new issues, and
+   - Give you experience in managing a project in a larger scale.
 
 - There are numerous benefits to making a project open-source, some of which are explained at https://opensource.google/docs/why
 
