@@ -1,6 +1,7 @@
 ---
 id: guide
 title: Students guide
+sidebar_position: 1
 ---
 
 ### How to proceed with Delta Winter of Code?

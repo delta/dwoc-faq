@@ -6,11 +6,11 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 module.exports = {
   title: "dwoc guides",
   tagline: "Delta winter of code",
-  url: " https://delta.github.io",
-  baseUrl: "/delta-faq/",
+  url: "https://delta.github.io",
+  baseUrl: "/dwoc-faq/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
+  favicon: "dwoc-faq/img/favicon.ico",
   organizationName: "delta", // Usually your GitHub org/user name.
   projectName: "dwoc-faq", // Usually your repo name.
 
@@ -36,21 +36,21 @@ module.exports = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "DWoC Guides",
+        title: "Delta Winter of Code",
         logo: {
-          alt: "dwoc Logo",
-          src: "img/logo.png",
+          alt: "dwoc logo",
+          src: "/dwoc-faq/img/logo.png",
         },
         items: [
           {
             type: "doc",
             docId: "intro",
             position: "left",
-            label: "Guides",
+            label: "Docs",
           },
           {
             href: "https://dwoc.io",
-            label: "DWoC",
+            label: "dwoc.io",
             position: "right",
           },
         ],
@@ -59,7 +59,7 @@ module.exports = {
         style: "dark",
         links: [
           {
-            title: "Guides",
+            title: "Docs",
             items: [
               {
                 label: "Student",
@@ -75,7 +75,7 @@ module.exports = {
             title: "Community",
             items: [
               {
-                label: "DWoc",
+                label: "DWoC",
                 href: "https://dwoc.io/",
               },
               {
@@ -92,7 +92,7 @@ module.exports = {
             title: "Delta Force",
             items: [
               {
-                label: "delta",
+                label: "Delta",
                 href: "https://delta.nitt.edu/",
               },
               {

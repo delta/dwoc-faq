@@ -1,23 +1,23 @@
 ---
-id: why-dwoc
+id: why-mentor-dwoc
 title: Why Mentor a Project?
-sidebar_position: 2
---- 
+sidebar_position: 3
+---
 
-Delta Winter of Code receives 400+ registrations every edition.
-This is our first time opening mentorship to external organizations.
+## Interest
 
-- After your project gets selected, it will be showcased on our site. This will help to,
-   - Add required features to your project(s),
-   - Raise new issues, and
-   - Give you experience in managing a project in a larger scale.
+To bring out the best in our aspiring developers, mentors should have the passion, responsibility and patience to engage with budding developers throughout their learning process!
 
-- There are numerous benefits to making a project open-source, some of which are explained at https://opensource.google/docs/why
+## Projects
 
-- Our process is very similar to that of Google Summer of Code.
-    - Many students who completed DWoC have been selected in GSoC.
-    - One of the previous mentors went on to mentor a project in GSoC as well!
+The road to success of current projects and all open sourced software is paved with good mentors bringing new developers into the community.
 
-- All accepted mentors will also receive goodies from DWoC!
+## Reach
 
-So what's stopping you? Register your project today!
+With around 400+ applications from student development groups across the country, this is a great platform to bring your projects to young enthusiasts.
+
+## Community
+
+Provide students more exposure to real-world software development and inspire them to contribute
+
+(And we have goodies!)
