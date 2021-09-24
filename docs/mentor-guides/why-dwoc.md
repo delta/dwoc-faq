@@ -1,4 +1,8 @@
-## Why Mentor a Project?
+---
+id: why-dwoc
+title: Why Mentor a Project?
+sidebar_position: 2
+--- 
 
 Delta Winter of Code receives 400+ registrations every edition.
 This is our first time opening mentorship to external organizations.
@@ -17,5 +21,3 @@ This is our first time opening mentorship to external organizations.
 - All accepted mentors will also receive goodies from DWoC!
 
 So what's stopping you? Register your project today!
-
-<a href="https://dwoc.io/guide/mentor">&#x2190; Prev</a> | Next &#x2192;

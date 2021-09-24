@@ -1,4 +1,8 @@
-## Mentors guide
+---
+id: guide
+title: Mentors guide
+sidebar_position: 1
+---
 
 Mentorship is a serious commitment but a very rewarding experience. 
 
@@ -30,5 +34,3 @@ Make sure that your student is familiar with the workflow of your community as e
 - Be it feedback to improve the proposal or for the project progress, make sure you deliver effective feedback to your student about their code, communication, and documentation.
 - Encourage the students by giving positive feedback and let them know of any issues early on so the students have time to improve/rectify.
 - Phrase suggestions positively and aim to provide only constructive criticism.
-
-&#x2190; Prev | <a href="https://dwoc.io/guide/why-dwoc">Next &#x2192;</a>

@@ -1,6 +1,9 @@
-## Students guide
+---
+id: guide
+title: Students guide
+---
 
-How to proceed with Delta Winter of Code?
+### How to proceed with Delta Winter of Code?
 
 It's quite simple really! 
 Are you new to open source?
@@ -25,7 +28,7 @@ If yes, you might want to take a peek at some of these informative articles.
 We hope this encourages you to code, explore and work with people in our community.
 
 ---
-### Further Details :
+### Further Details 
 
 - There is no set number on how many people will be selected, that is based on the organizations and their mentors.
 - Prizes include: certificate of completion, DWoC t-shirt, stickers.

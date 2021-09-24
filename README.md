@@ -1,6 +1,33 @@
-### About DWoC
+# dwoc-faq
 
-<a href="url"><img src="https://camo.githubusercontent.com/1ba815f1289125317c999a059ec95bfa5cba3894/68747470733a2f2f696d6775722e636f6d2f544c78357273762e706e67" height="180" width="600"> </a>
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-DWoC is a winter-long program organised by [Delta Force](https://delta.nitt.edu/), the coding club of NIT Trichy. With an aim to support and improve the culture of open-source software around us, this serves as a platform for young student developers (or even starters) to hone their technical skills by working on projects of their interests. We hope this encourages collaborative experiences and allows students from all backgrounds to contribute to quality technical projects from diverse fields. 
-For more information, visit [DWoC](https://dwoc.io/)
+### Installation
+
+```
+$ yarn
+```
+
+### Local Development
+
+```
+$ yarn start
+```
+
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+
+### Build
+
+```
+$ yarn build
+```
+
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
+
+### Deployment
+
+```
+$ GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
+```
+
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
