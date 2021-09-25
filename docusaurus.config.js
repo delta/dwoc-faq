@@ -10,7 +10,7 @@ module.exports = {
   baseUrl: "/dwoc-faq/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "dwoc-faq/img/favicon.ico",
+  favicon: "/img/favicon.ico",
   organizationName: "delta", // Usually your GitHub org/user name.
   projectName: "dwoc-faq", // Usually your repo name.
 
